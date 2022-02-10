@@ -1,0 +1,11 @@
+/*reset */
+* {
+    padding: 0;
+    margin: 0;
+}
+/*Règle pour le body*/
+body {
+    background-color: lightcoral;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
